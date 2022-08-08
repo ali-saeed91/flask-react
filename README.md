@@ -7,7 +7,7 @@ Requires python and node.
 1. ```pip install flask```
 2. ```cd client && npm install```
 
-<b> The run.py Python file is connfigured with the react build path which contains the static webpage, so test with Production </b>
+<b> The run.py Python file is configured with the react build path which contains the static webpage (template_folder & static_folder), so test with Production </b>
 ## Development
 
 1. In the client directory: ```npm start```
